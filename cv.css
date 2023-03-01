@@ -1,0 +1,55 @@
+body{
+    background-color:#6f8faf;
+    height: 122vh;
+    font-weight: bold;
+    letter-spacing: 2px;
+}
+*{
+    margin: 0px; padding: 0px; font-family: 'Montserrat', sans-serif;
+}
+header{
+    background-color: #f0ffff;
+}
+h1{
+    font-size: 45px;
+    color: #191970;
+}
+h2{
+    color: #f0ffff;
+    background-color: #191970;
+}
+.pp{
+    font-size: 15px;
+     font-weight: 300;
+     letter-spacing: 1px;
+     word-spacing: 2px;
+     line-height: 18px;
+     margin-top: 5px;
+     color: #191970;
+}
+.p1{
+    padding: 9px 10px;
+    font-size: 15px;
+    color: #191970;
+}
+.p2{
+    color:#1f51ff;
+}
+li{
+    font-size: 15px;
+     font-weight: 300;
+     letter-spacing: 1px;
+     word-spacing: 2px;
+     line-height: 18px;
+     margin-top: 5px;
+     color: #191970;
+}
+.hobi{
+    font-size: 15px;
+    font-weight: 300;
+    letter-spacing: 1px;
+    word-spacing: 2px;
+    line-height: 18px;
+    margin-top: 5px;
+    color: #191970;
+}
